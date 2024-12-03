@@ -63,7 +63,8 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/
-    - google_fonts/
+    - google_fonts/Lato/
+    - google_fonts/Nunito_Sans/
  
 
   # An image asset can refer to one or more resolution-specific "variants", see
